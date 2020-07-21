@@ -1,0 +1,145 @@
+S.No.,Location,Pincode,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+2,Adambakkam,600088,12.9822215,80.209121,3.0,Indian Restaurant,Pizza Place,Dessert Shop,Yoga Studio,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+3,Adyar,600020,13.00645,80.2577791,3.0,Indian Restaurant,Café,Pizza Place,Department Store,Fast Food Restaurant,North Indian Restaurant,Electronics Store,Juice Bar,Rock Club,Ice Cream Shop
+4,Agaram,600082,13.1158603,80.2300407,0.0,Multiplex,Pizza Place,Department Store,Light Rail Station,Shopping Mall,Train Station,Train,Farmers Market,Food & Drink Shop,Food
+5,Alandur,600016,12.9943729,80.1942837,3.0,Indian Restaurant,Pizza Place,Breakfast Spot,Café,Train Station,Hotel,Asian Restaurant,South Indian Restaurant,Metro Station,Bakery
+6,Alandur North,600032,12.9943729,80.1942837,3.0,Indian Restaurant,Pizza Place,Breakfast Spot,Café,Train Station,Hotel,Asian Restaurant,South Indian Restaurant,Metro Station,Bakery
+9,Ambattur H O,600053,13.1139774,80.1529202,4.0,Movie Theater,Ice Cream Shop,Multiplex,Flea Market,River,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+11,Ambattur West,600053,13.1193746,80.1507648,4.0,Ice Cream Shop,Movie Theater,Indian Restaurant,Department Store,Multiplex,Flea Market,Asian Restaurant,Yoga Studio,Field,Food Truck
+13,Anakaputhur,600070,12.9838095,80.1688264,0.0,Airport,Café,Metro Station,Airport Terminal,Fast Food Restaurant,Business Service,Pub,Multiplex,Bookstore,Rental Car Location
+15,Anna Road H O,600002,13.1207974,80.0948305,3.0,Indian Restaurant,Department Store,Movie Theater,Train Station,Fast Food Restaurant,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food
+21,Arcot Road,600024,13.0499473,80.21188,3.0,Indian Restaurant,Hotel,Multiplex,Clothing Store,Asian Restaurant,Coffee Shop,South Indian Restaurant,Fast Food Restaurant,Pizza Place,Music Store
+22,Arumbakkam,600106,13.074371,80.2081312,3.0,Fast Food Restaurant,Indian Restaurant,Vegetarian / Vegan Restaurant,Ice Cream Shop,Hotel,Sandwich Place,BBQ Joint,Food Court,Men's Store,Shopping Mall
+23,Ashok Nagar,600083,13.0400731,80.2159247,3.0,Indian Restaurant,Pizza Place,Department Store,Bakery,Yoga Studio,Sculpture Garden,Sandwich Place,Café,Chinese Restaurant,Coffee Shop
+25,Avadi,600054,13.1254758,80.09409,1.0,ATM,Jewelry Store,Vegetarian / Vegan Restaurant,Department Store,Rental Service,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+29,Ayanavaram,600023,13.0946157,80.23541,0.0,Indie Movie Theater,Music Venue,Bakery,Tennis Court,Well,Deli / Bodega,Department Store,Food Truck,Food Court,Food & Drink Shop
+31,Besant Nagar,600090,12.9996907,80.2682259,3.0,Indian Restaurant,Ice Cream Shop,Café,Coffee Shop,Dessert Shop,South Indian Restaurant,Bistro,Sandwich Place,Italian Restaurant,New American Restaurant
+34,Broadway,600108,13.0962367,80.2864133,3.0,Food Truck,Indian Restaurant,Video Store,Train Station,Market,Yoga Studio,Fast Food Restaurant,Food Court,Food & Drink Shop,Food
+38,Cathedral,600006,13.0518669,80.25307675773865,3.0,Indian Restaurant,Café,Hotel,Chinese Restaurant,Multiplex,Sandwich Place,Juice Bar,Coffee Shop,Lounge,Middle Eastern Restaurant
+39,Cemetry Road,600021,13.1091962,80.2861039,2.0,Train Station,Spa,Indian Restaurant,Ice Cream Shop,Department Store,Bakery,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop
+41,Central Leather Research,600020,13.00901045,80.24402541888409,3.0,Indian Restaurant,Chinese Restaurant,Department Store,Clothing Store,Ice Cream Shop,Pizza Place,Dessert Shop,Pet Store,Park,State / Provincial Park
+42,Central Station,600003,13.0801721,80.2838331,0.0,Market,Bus Station,Bookstore,Train Station,Museum,Hotel,Electronics Store,Campground,Harbor / Marina,Yoga Studio
+45,Chamiers Road,600018,13.0317092,80.2411957,3.0,Indian Restaurant,Hotel,Restaurant,Italian Restaurant,Lounge,Department Store,Pizza Place,Park,South Indian Restaurant,Pub
+46,Chepauk,600005,13.06363,80.2812779,3.0,Indian Restaurant,Memorial Site,Middle Eastern Restaurant,Hotel,Beach,Sports Club,Light Rail Station,Platform,Train Station,Vegetarian / Vegan Restaurant
+50,Chitlapakkam,600064,12.9330984,80.1413832,3.0,Clothing Store,Lake,Food & Drink Shop,Grocery Store,Fast Food Restaurant,Burger Joint,Movie Theater,Indian Restaurant,Dog Run,Flea Market
+51,Choolai,600112,13.0906283,80.2621417,3.0,Indian Restaurant,Department Store,Pizza Place,Diner,Hotel,Yoga Studio,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop
+52,Choolaimedu,600094,13.0623344,80.2254012,0.0,Train Station,Burger Joint,Chinese Restaurant,Mobile Phone Shop,Gym,Fruit & Vegetable Store,Bakery,Pizza Place,Ice Cream Shop,Department Store
+54,Christian College,600059,13.069374100000001,80.24879939435529,3.0,Indian Restaurant,Café,Ice Cream Shop,Coffee Shop,Asian Restaurant,Hotel,Theater,Sandwich Place,Chinese Restaurant,Shopping Mall
+55,Chromepet,600044,12.9496841,80.135642,3.0,Indian Restaurant,Clothing Store,Asian Restaurant,Ice Cream Shop,Pizza Place,Bus Station,Movie Theater,Fast Food Restaurant,Field,Food Truck
+62,Egmore,600008,13.0728321,80.2576906,3.0,Indian Restaurant,Hotel,Café,Shopping Mall,Pizza Place,Seafood Restaurant,Farmers Market,Motel,Bowling Alley,Sandwich Place
+63,Egmore High Road,600008,13.0748081,80.2538007,3.0,Indian Restaurant,Hotel,Shopping Mall,South Indian Restaurant,Café,Pizza Place,Seafood Restaurant,Italian Restaurant,Fast Food Restaurant,Farmers Market
+65,Eldams Road,600018,13.0386581,80.2525054,3.0,Indian Restaurant,Hotel,Lounge,Italian Restaurant,Café,Pizza Place,Restaurant,Chinese Restaurant,Juice Bar,Japanese Restaurant
+69,Ernavur,600057,13.1893545,80.3111383,1.0,ATM,Train Station,Fast Food Restaurant,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop,Flea Market
+73,Fort St George,600009,13.0795204,80.2874313,3.0,Indian Restaurant,Harbor / Marina,Museum,Convenience Store,Train Station,Bus Station,Campground,Yoga Studio,Food & Drink Shop,Food
+74,Ganapathipuram,600059,13.0149394,80.1879609,3.0,Fast Food Restaurant,South Indian Restaurant,Indian Restaurant,Multicuisine Indian Restaurant,Trail,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food
+75,Gandhi Nagar,600020,13.0582742,80.2078872,3.0,Hotel,Indian Restaurant,Pizza Place,Restaurant,Clothing Store,Fast Food Restaurant,Gym,Pub,Coffee Shop,Multiplex
+76,Ganesh Nagar,600088,12.9794114,80.2581619,0.0,Beach,Department Store,Convenience Store,Bus Station,Food Truck,Scenic Lookout,Burger Joint,Café,Multiplex,Middle Eastern Restaurant
+79,Gopalapuram,600086,13.0497324,80.2582028,3.0,Indian Restaurant,Café,Hotel,Multiplex,Ice Cream Shop,Concert Hall,Bakery,Middle Eastern Restaurant,Pub,Juice Bar
+81,Government Estate,600002,13.0696345,80.2730362,3.0,Indian Restaurant,Multiplex,Movie Theater,Flea Market,Dessert Shop,Bookstore,Sports Club,General Entertainment,Electronics Store,Café
+83,Greams Road,600006,13.0610354,80.2544849,3.0,Indian Restaurant,Café,Hotel,Multiplex,Middle Eastern Restaurant,Coffee Shop,Sandwich Place,Chinese Restaurant,Bakery,Juice Bar
+85,Guindy Ind Estate,600032,13.0246912,80.2083856,0.0,Movie Theater,Fast Food Restaurant,Indian Restaurant,Multicuisine Indian Restaurant,Vegetarian / Vegan Restaurant,Dessert Shop,Bakery,Restaurant,Asian Restaurant,Hotel
+87,Habibullah Road,600017,13.0515564,80.2311738,0.0,Jewelry Store,Ice Cream Shop,BBQ Joint,Bakery,Concert Hall,Coffee Shop,Clothing Store,Chinese Restaurant,Restaurant,Electronics Store
+89,Harrington Road,600031,13.0700742,80.2332132,0.0,Department Store,Ice Cream Shop,Café,Bakery,Restaurant,Concert Hall,Coffee Shop,Bus Station,South Indian Restaurant,Chinese Restaurant
+91,Hindi Prachar Sabha,600017,13.03454975,80.23900123308624,3.0,Indian Restaurant,Clothing Store,Hotel,Lounge,Restaurant,Café,Italian Restaurant,Pizza Place,Department Store,South Indian Restaurant
+93,I C F Colony,600038,13.0408638,80.25254475,3.0,Indian Restaurant,Hotel,Lounge,Café,Italian Restaurant,Chinese Restaurant,Ice Cream Shop,Restaurant,Juice Bar,Pizza Place
+95,Indra Nagar,600020,13.0370335,80.1887333,0.0,Fast Food Restaurant,Department Store,Indian Restaurant,Coffee Shop,Bakery,Café,Clothing Store,Food Truck,Smoke Shop,Convenience Store
+99,K K Nagar,600078,12.9835279,80.1567029,3.0,Pub,Indian Restaurant,Airport Food Court,Multiplex,Dessert Shop,Airport Terminal,Café,Rental Car Location,Road,Fast Food Restaurant
+104,Kalmandapam,600013,13.1153041,80.2908714,4.0,Spa,Department Store,Bakery,Dessert Shop,Movie Theater,Indian Restaurant,Ice Cream Shop,Deli / Bodega,Fish Market,Frozen Yogurt Shop
+108,Kilpauk,600010,13.0832149,80.2379864,0.0,Café,Indian Restaurant,Ice Cream Shop,Juice Bar,Bakery,Daycare,Coffee Shop,Snack Place,Food,Sandwich Place
+110,Kilpauk Medical College,600010,13.0785984,80.2433369,3.0,Indian Restaurant,Fast Food Restaurant,South Indian Restaurant,Ice Cream Shop,Vegetarian / Vegan Restaurant,Café,Hotel,Gym / Fitness Center,Daycare,Cosmetics Shop
+111,Kilpauk West,600010,13.0832149,80.2379864,0.0,Café,Indian Restaurant,Ice Cream Shop,Juice Bar,Bakery,Daycare,Coffee Shop,Snack Place,Food,Sandwich Place
+112,Kodambakkam,600024,13.049207,80.2242829,0.0,Jewelry Store,Juice Bar,Bakery,Yoga Studio,Lounge,Department Store,Park,Electronics Store,Fast Food Restaurant,Chinese Restaurant
+113,Kodambakkam West,600024,13.049207,80.2242829,0.0,Jewelry Store,Juice Bar,Bakery,Yoga Studio,Lounge,Department Store,Park,Electronics Store,Fast Food Restaurant,Chinese Restaurant
+115,Korattur,600080,13.1115392,80.1842767,3.0,Cricket Ground,Indian Restaurant,Dessert Shop,Pizza Place,Hotel,Café,Fast Food Restaurant,Field,Food Truck,Food Court
+116,Korattur R S,600076,13.1115392,80.1842767,3.0,Cricket Ground,Indian Restaurant,Dessert Shop,Pizza Place,Hotel,Café,Fast Food Restaurant,Field,Food Truck,Food Court
+117,Korukkupet,600021,13.1215344,80.2837912,1.0,ATM,Train Station,Platform,Health & Beauty Service,Spa,IT Services,Ice Cream Shop,Food Court,Food & Drink Shop,Food
+118,Kosapet,600012,13.0939346,80.2547909,3.0,Indian Restaurant,Clothing Store,Vegetarian / Vegan Restaurant,Department Store,Diner,Hotel,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop
+121,Kottur Madras,600085,13.0185768,80.2413141,0.0,Chinese Restaurant,Rock Club,Market,Bakery,Golf Course,Field,Light Rail Station,Sandwich Place,College Cafeteria,Department Store
+122,Koyambedu,600107,13.0720236,80.1980375,0.0,Hotel,Shopping Mall,Clothing Store,Vegetarian / Vegan Restaurant,Fast Food Restaurant,Department Store,Multiplex,Bus Station,Coffee Shop,Flower Shop
+125,Kumaran Nagar,600033,12.9719239,80.1922426,0.0,Indie Movie Theater,Pizza Place,Bus Station,Coffee Shop,Yoga Studio,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+131,Luz Church Road,600004,13.0371226,80.2663052,3.0,Indian Restaurant,Vegetarian / Vegan Restaurant,Concert Hall,Restaurant,Pizza Place,Ice Cream Shop,Grocery Store,Pub,Food Truck,Buffet
+133,Madhavaram,600060,13.1554081,80.2425246,4.0,Ice Cream Shop,Moving Target,Department Store,IT Services,Botanical Garden,Bakery,Fish Market,Frozen Yogurt Shop,Food Truck,Food Court
+134,Madhavaram East,600060,13.1554081,80.2425246,4.0,Ice Cream Shop,Moving Target,Department Store,IT Services,Botanical Garden,Bakery,Fish Market,Frozen Yogurt Shop,Food Truck,Food Court
+135,Madhavaram Milk Colony,600051,13.1554081,80.2425246,4.0,Ice Cream Shop,Moving Target,Department Store,IT Services,Botanical Garden,Bakery,Fish Market,Frozen Yogurt Shop,Food Truck,Food Court
+136,Madipakkam,600091,12.9611348,80.2001292,0.0,Convenience Store,Department Store,Coffee Shop,Grocery Store,Yoga Studio,Field,Food Truck,Food Court,Food & Drink Shop,Food
+140,Madras Medical College,600003,13.08095965,80.27994938138474,3.0,Indian Restaurant,Platform,Train Station,Bookstore,Metro Station,Restaurant,Campground,Electronics Store,Nightclub,Sandwich Place
+141,Madras Presidency College,600005,13.059021099999999,80.28138336226445,3.0,Indian Restaurant,Vegetarian / Vegan Restaurant,Memorial Site,Middle Eastern Restaurant,Flea Market,Beach,Sports Club,Light Rail Station,Platform,Hotel
+143,Madras University,600005,13.0116753,80.24000774361667,0.0,College Cafeteria,Chinese Restaurant,Pet Store,Department Store,Bus Station,South Indian Restaurant,Sandwich Place,Café,State / Provincial Park,Bakery
+144,Mambalam East,600033,13.0380662,80.2277752,3.0,Indian Restaurant,Clothing Store,Jewelry Store,Women's Store,Park,Snack Place,South Indian Restaurant,Boutique,Italian Restaurant,Miscellaneous Shop
+145,Mambalam R S,600033,13.0380662,80.2277752,3.0,Indian Restaurant,Clothing Store,Jewelry Store,Women's Store,Park,Snack Place,South Indian Restaurant,Boutique,Italian Restaurant,Miscellaneous Shop
+146,Manali Madras,600068,13.1672275,80.2598107,1.0,ATM,Motorcycle Shop,Athletics & Sports,Fruit & Vegetable Store,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+147,Manali New Town,600103,13.1672275,80.2598107,1.0,ATM,Motorcycle Shop,Athletics & Sports,Fruit & Vegetable Store,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+149,Mannady,600001,13.0959441,80.2871013,3.0,Food Truck,Indian Restaurant,Video Store,Train Station,Market,Yoga Studio,Fast Food Restaurant,Food Court,Food & Drink Shop,Food
+151,Medavakkam Tank Road,600010,13.0865218,80.2445966,3.0,Indian Restaurant,Ice Cream Shop,Fast Food Restaurant,Italian Restaurant,Bakery,Frozen Yogurt Shop,Shoe Store,Food,Café,Music Venue
+153,Mettupalayam,600033,13.1075542,80.2540237,2.0,Bus Station,Train Station,Restaurant,Bakery,Yoga Studio,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+154,Minambakkam,600027,12.9846976,80.1750925,0.0,Fast Food Restaurant,Airport,Airport Terminal,Pizza Place,Business Service,Airport Lounge,Donut Shop,Multicuisine Indian Restaurant,Bookstore,Café
+156,Monegar Choultry,600001,13.108409,80.2865667,2.0,Train Station,Spa,Indian Restaurant,Ice Cream Shop,Department Store,Bakery,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop
+157,Moolakadai,600060,13.1291684,80.2416991,3.0,Currency Exchange,Indian Restaurant,Coffee Shop,Asian Restaurant,Fast Food Restaurant,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food
+165,Nandanam,600035,13.0286286,80.240256,3.0,Indian Restaurant,Lounge,Italian Restaurant,Bakery,Ice Cream Shop,Department Store,Café,Coffee Shop,Golf Course,Sports Bar
+169,New Avadi Road,600010,13.1034466,80.2008674,0.0,Snack Place,Italian Restaurant,Multiplex,Bus Station,Bakery,Field,Food Truck,Food Court,Food & Drink Shop,Food
+172,Nungambakkam,600034,13.0620626,80.240487,3.0,Indian Restaurant,Café,Chinese Restaurant,Ice Cream Shop,Bakery,Coffee Shop,Restaurant,Asian Restaurant,South Indian Restaurant,Hotel
+174,Nungambakkam High Road,600034,13.0527433,80.2508669,3.0,Indian Restaurant,Café,Ice Cream Shop,Hotel,Chinese Restaurant,Coffee Shop,Multiplex,Italian Restaurant,Lounge,Middle Eastern Restaurant
+178,Padi,600050,13.1035851,80.1920425,0.0,Café,Snack Place,Kerala Restaurant,Yoga Studio,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+179,Padi South,600050,13.1035851,80.1920425,0.0,Café,Snack Place,Kerala Restaurant,Yoga Studio,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+181,Pallavaram,600043,12.9654669,80.1451178,3.0,Indian Restaurant,Pizza Place,Fast Food Restaurant,Afghan Restaurant,Hyderabadi Restaurant,Clothing Store,Yoga Studio,Food Truck,Food Court,Food & Drink Shop
+182,Pallavaram North,600043,12.9654669,80.1451178,3.0,Indian Restaurant,Pizza Place,Fast Food Restaurant,Afghan Restaurant,Hyderabadi Restaurant,Clothing Store,Yoga Studio,Food Truck,Food Court,Food & Drink Shop
+183,Pallavaram South,600043,12.9654669,80.1451178,3.0,Indian Restaurant,Pizza Place,Fast Food Restaurant,Afghan Restaurant,Hyderabadi Restaurant,Clothing Store,Yoga Studio,Food Truck,Food Court,Food & Drink Shop
+185,Pammal,600075,12.9737938,80.1408,0.0,Department Store,Pizza Place,Hyderabadi Restaurant,South Indian Restaurant,Chinese Restaurant,Yoga Studio,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop
+186,Panagal Park,600017,13.04150375,80.23309710963142,3.0,Indian Restaurant,Clothing Store,Jewelry Store,South Indian Restaurant,Coffee Shop,Café,BBQ Joint,Miscellaneous Shop,Department Store,Fast Food Restaurant
+188,Park Town,600003,13.0863424,80.2727567,3.0,Indian Restaurant,Hotel,Bookstore,Vegetarian / Vegan Restaurant,Train Station,Restaurant,Sandwich Place,Furniture / Home Store,Soccer Stadium,Food
+189,Parthasarathy Koil,600005,13.0216051,80.2077809,3.0,Movie Theater,Indian Restaurant,Multicuisine Indian Restaurant,Vegetarian / Vegan Restaurant,Dessert Shop,Bus Station,Hotel,Restaurant,Asian Restaurant,Field
+190,Pattabiram,600072,13.1222511,80.0624155,0.0,Fast Food Restaurant,Concert Hall,Platform,Supermarket,Yoga Studio,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+191,Pattabiram East,600072,13.1222511,80.0624155,0.0,Fast Food Restaurant,Concert Hall,Platform,Supermarket,Yoga Studio,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+192,Perambur,600011,13.1121242,80.245022,0.0,Pizza Place,Shopping Mall,Department Store,Train Station,Bus Station,Multiplex,Restaurant,Snack Place,Chinese Restaurant,Bakery
+193,Perambur Barracks,600012,13.0986022,80.2594995,0.0,Furniture / Home Store,Fast Food Restaurant,Pharmacy,Dog Run,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+194,Perambur High Road,600012,13.1060173,80.2511672,2.0,Train Station,Bus Station,Restaurant,Bakery,Yoga Studio,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+195,Perambur North,600011,13.1121242,80.245022,0.0,Pizza Place,Shopping Mall,Department Store,Train Station,Bus Station,Multiplex,Restaurant,Snack Place,Chinese Restaurant,Bakery
+196,Perungudi,600096,12.9710239,80.2418051,3.0,Indian Restaurant,Boutique,Platform,Asian Restaurant,Food Court,South Indian Restaurant,Middle Eastern Restaurant,Sandwich Place,Chinese Restaurant,Fast Food Restaurant
+200,Poonamallee,600056,13.0763388,80.2011935,0.0,Multiplex,Clothing Store,Indian Restaurant,Vegetarian / Vegan Restaurant,Hotel,Shopping Mall,Ice Cream Shop,Bus Station,Flower Shop,Metro Station
+201,Poonamallee East,600056,13.0763388,80.2011935,0.0,Multiplex,Clothing Store,Indian Restaurant,Vegetarian / Vegan Restaurant,Hotel,Shopping Mall,Ice Cream Shop,Bus Station,Flower Shop,Metro Station
+204,Pudupakkam,600014,13.06124,80.27017,3.0,Indian Restaurant,Clothing Store,Multiplex,Hotel,Movie Theater,Fast Food Restaurant,Juice Bar,Shopping Mall,Middle Eastern Restaurant,Café
+205,Pudupet,600002,13.0712018,80.2669603,3.0,Indian Restaurant,Hotel,Café,Multiplex,Dessert Shop,Movie Theater,Bowling Alley,Farmers Market,General Entertainment,Flea Market
+206,Pulianthope,600012,13.1003849,80.2683122,0.0,Platform,Pizza Place,Train Station,Light Rail Station,Yoga Studio,Farmers Market,Food Court,Food & Drink Shop,Food,Flower Shop
+209,Radhanagar,600044,13.0801721,80.2838331,0.0,Market,Bus Station,Bookstore,Train Station,Museum,Hotel,Electronics Store,Campground,Harbor / Marina,Yoga Studio
+216,Rayapuram Madras,600013,13.1171002,80.2841149,2.0,Train Station,Movie Theater,Department Store,Bakery,Clothing Store,Field,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop
+217,Rayapuram Market,600013,13.1171002,80.2841149,2.0,Train Station,Movie Theater,Department Store,Bakery,Clothing Store,Field,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop
+222,Ripon Buildings,600003,13.081856649999999,80.2718454274524,3.0,Hotel,Indian Restaurant,Vegetarian / Vegan Restaurant,Bookstore,Platform,Nightclub,Sandwich Place,Soccer Stadium,Metro Station,Furniture / Home Store
+223,Royapettah,600014,13.0554718,80.2639706,3.0,Indian Restaurant,Multiplex,Middle Eastern Restaurant,Movie Theater,Café,Clothing Store,Hotel,Fast Food Restaurant,Juice Bar,Shopping Mall
+224,Royapettah High Road,600004,13.0487074,80.2654419,0.0,Hotel,Restaurant,Electronics Store,Hyderabadi Restaurant,Chinese Restaurant,Café,Gym,Comfort Food Restaurant,Concert Hall,Vegetarian / Vegan Restaurant
+225,Saidapet Madras,600015,13.020817,80.2239536,0.0,Chinese Restaurant,Bus Station,South Indian Restaurant,Fish Market,Food & Drink Shop,Bakery,BBQ Joint,Train Station,Movie Theater,Breakfast Spot
+226,Saidapet West,600015,13.020817,80.2239536,0.0,Chinese Restaurant,Bus Station,South Indian Restaurant,Fish Market,Food & Drink Shop,Bakery,BBQ Joint,Train Station,Movie Theater,Breakfast Spot
+228,Saligramam,600093,13.0583406,80.1985327,0.0,Farmers Market,Fast Food Restaurant,Vegetarian / Vegan Restaurant,Ice Cream Shop,Bakery,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food
+229,Saligramam South,600093,13.0583406,80.1985327,0.0,Farmers Market,Fast Food Restaurant,Vegetarian / Vegan Restaurant,Ice Cream Shop,Bakery,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food
+230,Santhome,600004,13.0298372,80.275738,3.0,Indian Restaurant,Vegetarian / Vegan Restaurant,Café,Middle Eastern Restaurant,Surf Spot,Harbor / Marina,Restaurant,Fast Food Restaurant,BBQ Joint,Kebab Restaurant
+234,Sembiam,600011,13.1128208,80.2388201,0.0,Pizza Place,Restaurant,Chinese Restaurant,Snack Place,Bus Station,Multiplex,Bakery,Shopping Mall,Train Station,Vegetarian / Vegan Restaurant
+236,Service Centre,600031,13.0801721,80.2838331,0.0,Market,Bus Station,Bookstore,Train Station,Museum,Hotel,Electronics Store,Campground,Harbor / Marina,Yoga Studio
+237,Seven Wells,600001,13.1005688,80.2821153,2.0,Train Station,Fast Food Restaurant,Bus Station,Sandwich Place,BBQ Joint,Field,Food Truck,Food Court,Food & Drink Shop,Food
+239,Shastri Bhavan,600006,13.0659128,80.2470935,3.0,Indian Restaurant,Café,Chinese Restaurant,Ice Cream Shop,Italian Restaurant,Dessert Shop,Hotel,Middle Eastern Restaurant,Coffee Shop,Department Store
+241,Sidco Estate,600098,13.01407,80.2091208,3.0,Indian Restaurant,Bus Station,Asian Restaurant,Hotel,Movie Theater,Restaurant,Bar,South Indian Restaurant,Golf Course,Food Court
+243,Solai Street,600023,13.0410589,80.1822883,3.0,Indian Restaurant,Vegetarian / Vegan Restaurant,Fast Food Restaurant,Breakfast Spot,Asian Restaurant,Convenience Store,Clothing Store,Café,Sandwich Place,Food Truck
+245,Sowcarpet,600079,13.0884967,80.2783092,3.0,Indian Restaurant,Bookstore,Market,Electronics Store,Restaurant,Café,Sandwich Place,Bus Station,Soccer Stadium,Platform
+248,St Thomas Mount H O,600016,12.9953587,80.1997148,3.0,Indian Restaurant,Pizza Place,Metro Station,Burger Joint,Bakery,Burrito Place,Hotel Bar,Train Station,Breakfast Spot,Frozen Yogurt Shop
+250,Tambaram East,600059,12.9265148,80.1314526,0.0,Food Court,Convenience Store,Ice Cream Shop,Shopping Plaza,Food,Yoga Studio,Fast Food Restaurant,Food Truck,Food & Drink Shop,Flower Shop
+254,Tambaram West,600045,12.9265148,80.1314526,0.0,Food Court,Convenience Store,Ice Cream Shop,Shopping Plaza,Food,Yoga Studio,Fast Food Restaurant,Food Truck,Food & Drink Shop,Flower Shop
+255,Taramani,600113,12.9849067,80.2404069,0.0,Fast Food Restaurant,Food Court,Indian Restaurant,Theater,Coffee Shop,Office,Café,Sandwich Place,Snack Place,Platform
+257,Teynampet,600018,13.0443237,80.2498455,3.0,Indian Restaurant,Hotel,Lounge,Café,Chinese Restaurant,Italian Restaurant,Tea Room,Restaurant,Juice Bar,Bar
+258,Teynampet South,600018,13.0396928,80.2472853,3.0,Indian Restaurant,Hotel,Lounge,Café,Italian Restaurant,Restaurant,Pizza Place,Japanese Restaurant,Gym / Fitness Center,Pub
+259,Teynampet West,600006,13.0474874,80.2485425,3.0,Indian Restaurant,Hotel,Café,Lounge,Coffee Shop,Chinese Restaurant,Nightclub,Sandwich Place,Ice Cream Shop,Italian Restaurant
+262,Theosophical Society,600020,13.007584,80.27087593337941,3.0,Indian Restaurant,Café,Ice Cream Shop,Coffee Shop,Fast Food Restaurant,Sandwich Place,Beach,New American Restaurant,Scenic Lookout,Burger Joint
+267,Tiruvanmiyur,600041,12.9889822,80.2515865,3.0,Indian Restaurant,Vegetarian / Vegan Restaurant,Sandwich Place,Fast Food Restaurant,Multiplex,Office,Hotel,Food Court,Gym,Bistro
+271,Tiruvottiyur,600019,13.1563873,80.3005279,0.0,Indie Movie Theater,Indian Restaurant,Train Station,Bus Station,Beach,Historic Site,Yoga Studio,Field,Food Truck,Food Court
+272,Tiruvottiyur North,600019,13.1563873,80.3005279,0.0,Indie Movie Theater,Indian Restaurant,Train Station,Bus Station,Beach,Historic Site,Yoga Studio,Field,Food Truck,Food Court
+273,Tiruvottiyur West,600019,13.1563873,80.3005279,0.0,Indie Movie Theater,Indian Restaurant,Train Station,Bus Station,Beach,Historic Site,Yoga Studio,Field,Food Truck,Food Court
+276,Triplicane South,600014,13.0604285,80.2750704,3.0,Indian Restaurant,Multiplex,Vegetarian / Vegan Restaurant,Beach,Electronics Store,Sports Club,Light Rail Station,Flea Market,General Entertainment,Dessert Shop
+277,Usman Road,600017,13.0410665,80.2321375,3.0,Indian Restaurant,Clothing Store,Jewelry Store,Coffee Shop,South Indian Restaurant,Department Store,Miscellaneous Shop,Café,Restaurant,Boutique
+278,Vadapalani,600026,13.0509304,80.2120661,3.0,Indian Restaurant,Hotel,Multiplex,Pizza Place,Clothing Store,Coffee Shop,South Indian Restaurant,Fast Food Restaurant,Asian Restaurant,Yoga Studio
+279,Vandalur,600048,12.8921486,80.0829603,1.0,ATM,Platform,South Indian Restaurant,Deli / Bodega,Field,Frozen Yogurt Shop,Food Truck,Food Court,Food & Drink Shop,Food
+280,Velacheri,600042,12.9879107,80.2231951,0.0,Pizza Place,Indian Restaurant,Vegetarian / Vegan Restaurant,Clothing Store,Sandwich Place,Café,Coffee Shop,Chinese Restaurant,Fast Food Restaurant,Multiplex
+281,Venkatesapuram,600012,13.1085103,80.2640242,0.0,Platform,Market,Costume Shop,Pizza Place,Train Station,Light Rail Station,Yoga Studio,Food Court,Food & Drink Shop,Food
+282,Vepery,600007,13.0842952,80.2622738,3.0,Indian Restaurant,Hotel,Pizza Place,Vegetarian / Vegan Restaurant,Diner,Soccer Stadium,Movie Theater,Café,Farmers Market,Snack Place
+284,Villivakkam,600049,13.1125875,80.2081378,0.0,Smoke Shop,Food Truck,Bus Station,Multiplex,Light Rail Station,Bakery,Yoga Studio,Fish Market,Food Court,Food & Drink Shop
+285,Villivakkam North,600049,13.1125875,80.2081378,0.0,Smoke Shop,Food Truck,Bus Station,Multiplex,Light Rail Station,Bakery,Yoga Studio,Fish Market,Food Court,Food & Drink Shop
+286,Villivakkam South,600049,13.1125875,80.2081378,0.0,Smoke Shop,Food Truck,Bus Station,Multiplex,Light Rail Station,Bakery,Yoga Studio,Fish Market,Food Court,Food & Drink Shop
+287,Virugambakkam,600092,13.0475434,80.1922181,0.0,Clothing Store,Fast Food Restaurant,Pizza Place,Indian Restaurant,Café,Vegetarian / Vegan Restaurant,Movie Theater,Sandwich Place,Chettinad Restaurant,Bookstore
+289,Virugambakkam North,600092,13.0475434,80.1922181,0.0,Clothing Store,Fast Food Restaurant,Pizza Place,Indian Restaurant,Café,Vegetarian / Vegan Restaurant,Movie Theater,Sandwich Place,Chettinad Restaurant,Bookstore
+296,West Mambalam,600033,13.0427322,80.2270781,3.0,Clothing Store,Indian Restaurant,Jewelry Store,South Indian Restaurant,BBQ Joint,Café,Department Store,Convenience Store,Electronics Store,Boutique
